@@ -33,7 +33,7 @@ Xiao Yang, Jinchang Zhang, Bidur Paneru, Jiakai Lin, Ramesh Bahadur Bist, Guoyu 
 AgriEngineering, 2025  
 
 Depth Estimation Based on 3D Gaussian Splatting Siamese Defocus  
-Jinchang Zhang, Ningning Xu, Guoyu Lu  
+Jinchang Zhang*, Ningning Xu*, Guoyu Lu  
 International Conference on Robotics and Automation (ICRA), 2025  
 
 Keypoint Detection and Description for Raw Bayer Images  
