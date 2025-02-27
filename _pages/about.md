@@ -38,7 +38,7 @@ International Conference on Robotics and Automation (ICRA), 2025
 **2024**  
 Underground Mapping and Localization Based on Ground-Penetrating Radar  
 Jinchang Zhang, Guoyu Lu  
-Asian Conference on Computer Vision (ACCV), 2024 
+Asian Conference on Computer Vision (ACCV), 2024   
 Self-Supervised Depth Estimation Based on Camera Models   
 Jinchang Zhang, Guoyu Lu  
 International Conference on Intelligent Robots and Systems (IROS)，2024  
