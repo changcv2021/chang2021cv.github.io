@@ -24,7 +24,7 @@ Hello, I am Jinchang Zhang (张晋畅), a second-year Ph.D. student in the Compu
 ------ 
 **2025**  
 Vision-Language Embodiment for Monocular Depth Estimation  
-Jinchang Zhang, Guoyu Lu
+Jinchang Zhang, Guoyu Lu  
 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025  
 Precision Monitoring of Dead Chickens and Floor Eggs with a Robotic Machine Vision Method"  
 Xiao Yang, Jinchang Zhang, Bidur Paneru, Jiakai Lin, Ramesh Bahadur Bist, Guoyu Lu, Lilong Chai  
