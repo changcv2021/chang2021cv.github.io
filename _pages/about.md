@@ -13,6 +13,7 @@ Hello, I am Jinchang Zhang (张晋畅), a second-year Ph.D. student in the Compu
 
 **🔥 News**
 ------   
+• 2025.01: Our paper "Vision-Language Embodiment for Monocular Depth Estimation" accepted by IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
 • 2025.02: Our paper "Precision Monitoring of Dead Chickens and Floor Eggs with a Robotic Machine Vision Method" has been accepted as the Cover Story for AgriEngineering Issue 2 (February 2025).  
 • 2025.02: Our paper "Precision Monitoring of Dead Chickens and Floor Eggs with a Robotic Machine Vision Method" accepted by AgriEngineering  
 • 2025.01: Our paper "Depth Estimation Based on 3D Gaussian Splatting Siamese Defocus" accepted by International Conference on Robotics and Automation (ICRA)  
@@ -32,8 +33,8 @@ AgriEngineering
 Depth Estimation Based on 3D Gaussian Splatting Siamese Defocus  
 Jinchang Zhang, Ningning Xu, Guoyu Lu  
 International Conference on Robotics and Automation (ICRA), 2025  
-Keypoint Detection and Description for Raw Bayer Images
-Jiakai Lin, Jinchang Zhang, Guoyu Lu
+Keypoint Detection and Description for Raw Bayer Images  
+Jiakai Lin, Jinchang Zhang, Guoyu Lu  
 International Conference on Robotics and Automation (ICRA), 2025  
 **2024**  
 Underground Mapping and Localization Based on Ground-Penetrating Radar  
