@@ -22,15 +22,13 @@ Hello, I am Jinchang Zhang (张晋畅), a second-year Ph.D. student in the Compu
 
 **📖 Publications**
 ------ 
-**2025**
-Vision-LanguageEmbodimentforMonocularDepthEstimation  
+**2025**  
+Vision-Language Embodiment for Monocular Depth Estimation  
 Jinchang Zhang, Guoyu Lu
 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025  
-
 Depth Estimation Based on 3D Gaussian Splatting Siamese Defocus  
 Jinchang Zhang, Ningning Xu, Guoyu Lu  
 International Conference on Robotics and Automation (ICRA), 2025  
-
 Keypoint Detection and Description for Raw Bayer Images
 Jiakai Lin, Jinchang Zhang, Guoyu Lu
 International Conference on Robotics and Automation (ICRA), 2025  
@@ -38,8 +36,7 @@ International Conference on Robotics and Automation (ICRA), 2025
 Underground Mapping and Localization Based on Ground-Penetrating Radar  
 Jinchang Zhang, Guoyu Lu  
 Asian Conference on Computer Vision (ACCV), 2024 
-
-Self-Supervised Depth Estimation Based on Camera Models 
+Self-Supervised Depth Estimation Based on Camera Models   
 Jinchang Zhang, Guoyu Lu  
 International Conference on Intelligent Robots and Systems (IROS)，2024  
 
